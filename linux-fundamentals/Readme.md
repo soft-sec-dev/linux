@@ -6,3 +6,5 @@
 - Linux Torwarld development the kerney of linux in GNU
 - Distrutions of linux
 ![Distribution of linux](img/Screenshot%20from%202023-05-28%2007-14-25.png)
+- [centos.org](https://centos.org/) , [rokilinux.org](https://rockylinux.org/)
+- [redhatlinuxdistribution](https://developers.redhat.com/products/rhel/overview)
